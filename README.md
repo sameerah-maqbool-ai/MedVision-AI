@@ -1,5 +1,6 @@
 ## 🩺 MedVision AI
 AI-Powered Chest X-Ray Analysis System
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/14d46b7d-5ab2-4c2a-86d6-06583d1f6f92" />
 
 MedVision AI is a deep learning-based web application that analyzes chest X-ray images to detect lung diseases such as Pneumonia and Tuberculosis. The system leverages advanced convolutional neural networks and transfer learning to provide fast and reliable predictions.
 
