@@ -9,11 +9,13 @@ MedVision AI is a deep learning-based web application that analyzes chest X-ray 
 Normal   
 Pneumonia  
 Tuberculosis   
+
 ## 🧠 Powered by Deep Learning (CNN + Transfer Learning)
 ⚡ Real-time image prediction  
 📊 Confidence score for each prediction  
 🌐 Web-based interface (upload & detect)  
 📉 Model evaluation with accuracy, confusion matrix & ROC curves  
+
 ## 🏗️ Tech Stack  
 Frontend: HTML, CSS, JavaScript  
 Backend: Flask   
@@ -26,10 +28,12 @@ Image preprocessing & augmentation applied
 Transfer learning used (EfficientNet / CNN)  
 Fine-tuning for improved accuracy  
 Class imbalance handled using class weights  
+
 📊 Results  
 ✅ High classification accuracy  
 📉 Low validation loss  
 📊 Strong performance across all classes  
+
 ## ⚠️ Disclaimer
 
 This system is intended for educational and research purposes only.  
@@ -41,6 +45,7 @@ Always consult a qualified healthcare professional.
 🌍 Deployment (Render / Vercel / AWS)  
 📱 Mobile-friendly UI  
 🧠 Multi-disease detection expansion  
+
 ## 🤝 Contributing  
 
 Contributions are welcome!
